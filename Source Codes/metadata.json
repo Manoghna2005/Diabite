@@ -1,0 +1,6 @@
+{
+  "name": "DiaBite - Context-Aware Diabetic Food Recommendation System",
+  "description": "Context-aware personalized food recommendation and smart ordering system for diabetic patients using Multi-Criteria Decision Making (MCDM), glycemic load analytics, and direct food delivery integration.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
