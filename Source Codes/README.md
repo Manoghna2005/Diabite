@@ -18,3 +18,8 @@ View your app in AI Studio: https://ai.studio/apps/51a246a6-6689-423c-8305-3fda5
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+
+## Project Report
+
+[Open the DiaBite project report in Google Drive](https://drive.google.com/file/d/16HUe0zRtXVsHFrqSUccntQ9cs3kfeTtH/view?usp=drive_link)
