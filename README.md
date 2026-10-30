@@ -12,7 +12,7 @@
 - [`Figures/`](Figures/) — report figures and presentation media
 - [`Tables/`](Tables/) — JSON metadata; sample meal, restaurant, and profile records are in `Source Codes/src/data/`
 - [`others/`](others/) — reproducibility notes
-- [`DemoLink.txt`](DemoLink.txt) — project demo URL
+- [`DemoLink.txt`](DemoLink.txt) — https://drive.google.com/file/d/16HUe0zRtXVsHFrqSUccntQ9cs3kfeTtH/view?usp=drive_link
 
 ## Project files
 
